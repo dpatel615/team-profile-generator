@@ -30,4 +30,4 @@ Contributors should read the installation section.
 Run `npm test` to run Jest for tests on constructors. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
+If you have any questions about this projects, please contact me directly at drustipatel1234@gmail.com. You can view more of my projects at 
