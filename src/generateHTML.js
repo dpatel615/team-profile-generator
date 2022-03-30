@@ -83,6 +83,11 @@ generateHTML = (data) => {
 
             pageArray.push(managerCard);
         }
+        if(role === 'Engineer') {
+            const engineerCard = generateEngineer(employee);
+
+            pageArray.push(engineerCard);
+        }
 
         // call intern function
         if (role === 'intern'){
